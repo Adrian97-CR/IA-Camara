@@ -1,0 +1,7 @@
+{
+  "name": "IACamera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
